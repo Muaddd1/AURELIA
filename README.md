@@ -2,7 +2,7 @@
 
 A complete, production-ready luxury e-commerce storefront template. Dark-luxury design system with a light-mode variant, 13 fully built routes, and every product/lifestyle image visually verified to be free of real brand logos or trademarks — safe to reskin and resell.
 
-**[Buy on Gumroad — $49](https://muadme.gumroad.com/l/zimpb)**
+**[Live demo](https://aurelia-template-phi.vercel.app)** · **[Buy on Gumroad — $49](https://muadme.gumroad.com/l/zimpb)**
 
 ![Home](screenshots/01-home.jpg)
 ![Shop](screenshots/02-shop.jpg)
