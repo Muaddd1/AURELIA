@@ -31,7 +31,9 @@ React 18 · TypeScript · Vite · Tailwind CSS v4 · Framer Motion · Zustand ·
 ```bash
 npm install
 npm run dev      # start dev server
-npm run build    # production build
+npm run build    # type-check + production build
+npm run preview  # serve the production build locally
+npm run lint     # lint with oxlint
 ```
 
 No backend included — all data is local mock data in `src/data/`, ready to be wired up to your own API or CMS.
