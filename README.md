@@ -37,3 +37,17 @@ npm run lint     # lint with oxlint
 ```
 
 No backend included — all data is local mock data in `src/data/`, ready to be wired up to your own API or CMS.
+
+## Project structure
+
+```
+src/
+├── components/
+│   ├── layout/   # Navbar, Footer, CartDrawer, QuickViewModal, ScrollToTop
+│   ├── motion/   # PageTransition, Reveal
+│   └── ui/       # Accordion, Container, EmptyState, FilterSidebar, ProductCard, StarRating
+├── data/         # products, journal, types, image sources (all local mock data)
+├── lib/          # checkout schemas, price formatting, URL-synced filters, theme sync
+├── pages/        # one file per route (Home, Shop, Collection, Product, Cart, Checkout, ...)
+└── store/        # Zustand stores: cart, wishlist, auth, ui
+```
