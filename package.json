@@ -2,6 +2,8 @@
   "name": "aurelia",
   "private": true,
   "version": "0.0.0",
+  "description": "Luxury e-commerce React template",
+  "homepage": "https://aurelia-template-phi.vercel.app",
   "type": "module",
   "scripts": {
     "dev": "vite",
