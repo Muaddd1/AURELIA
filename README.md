@@ -28,6 +28,8 @@ React 18 · TypeScript · Vite · Tailwind CSS v4 · Framer Motion · Zustand ·
 
 ## Getting started
 
+Requires **Node.js 20.19+ or 22.12+** (Vite 8's minimum; older versions fail at install or build).
+
 ```bash
 npm install
 npm run dev      # start dev server
