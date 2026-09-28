@@ -56,6 +56,7 @@ src/
 
 ## More templates
 
+- [NEXFORM](https://github.com/Muaddd1/NEXFORM) — futuristic personal-trainer template with a 3D athlete, a quiz, a body map and a real booking flow ([demo](https://nexform-muad1.vercel.app))
 - [FADEHOUSE](https://github.com/Muaddd1/FADEHOUSE) — premium barbershop template with a real booking flow and a 3D clipper built in code ([demo](https://fadehouse-muad1.vercel.app))
 - [ÉLORA](https://github.com/Muaddd1/ELORA) — luxury beauty salon template with a real booking flow and a 3D serum bottle ([demo](https://elora-muad1.vercel.app))
 - [VELLUTO](https://github.com/Muaddd1/VELLUTO) — cinematic 3D coffee-brand template ([demo](https://velluto-muad1.vercel.app))
