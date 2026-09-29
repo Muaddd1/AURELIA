@@ -10,6 +10,17 @@
     "url": "git+https://github.com/Muaddd1/AURELIA.git"
   },
   "description": "Luxury e-commerce React template",
+  "keywords": [
+    "react",
+    "typescript",
+    "vite",
+    "tailwindcss",
+    "zustand",
+    "ecommerce",
+    "luxury",
+    "template",
+    "storefront"
+  ],
   "homepage": "https://aurelia-template-phi.vercel.app",
   "type": "module",
   "scripts": {
