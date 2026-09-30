@@ -53,5 +53,9 @@
     "tailwindcss": "^4.3.3",
     "typescript": "~6.0.2",
     "vite": "^8.2.2"
+  },
+  "author": "Mouad Sehli (https://muad-portfolio.vercel.app)",
+  "bugs": {
+    "url": "https://github.com/Muaddd1/AURELIA/issues"
   }
 }
