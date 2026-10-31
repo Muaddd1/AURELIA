@@ -34,7 +34,7 @@ export default function Search() {
         <h1 className="mt-3 font-display text-4xl sm:text-5xl">What are you looking for?</h1>
         <div className="relative mx-auto mt-10 max-w-md">
           <SearchIcon size={16} strokeWidth={1.25} className="absolute left-1 top-1/2 -translate-y-1/2 text-mute" />
-          <input
+          <input aria-label="Search products"
             autoFocus
             value={query}
             onChange={(e) => handleChange(e.target.value)}

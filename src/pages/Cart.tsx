@@ -87,7 +87,7 @@ export default function Cart() {
                 setPromoMsg(promo ? "Promo code applied at checkout." : "");
               }}
             >
-              <input
+              <input aria-label="Promo code"
                 value={promo}
                 onChange={(e) => setPromo(e.target.value)}
                 placeholder="Promo code"
